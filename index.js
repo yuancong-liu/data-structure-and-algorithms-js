@@ -1,0 +1,1 @@
+console.log("Access code from src/ directory!")
