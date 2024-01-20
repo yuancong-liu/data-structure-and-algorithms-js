@@ -1,1 +1,1 @@
-# data-structure-and-algorithms-js
+# Data Structure and Algorithms with JavaScript Lecture Notes and Exercises
